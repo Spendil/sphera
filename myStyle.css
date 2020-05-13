@@ -1,0 +1,30 @@
+.canvas-container{
+  position: relative;
+  width: 600px;
+  height: 600px;
+}
+#canvas {
+  position: absolute;
+  background-color: lightgrey;
+  //top: 100px;
+}
+/*form {
+	display: flex;
+}*/
+input {
+	width: 50px;
+	margin-bottom: 5px;
+	padding: 5px;
+	text-align: center
+}
+button {
+  position: absolute;
+  border: 1px solid black;
+  background-color: #FFFFFF;
+  padding: 10px 10px;
+  border-radius: 20px;
+  box-shadow: none;
+  font-size: 16px;
+  left: 108px;
+  top:0;
+}
